@@ -1,4 +1,4 @@
-<b>Wanderbee.com Frontend Project:</b><br>
+<b>Wanderbee.com Frontend Project:</br><br>
 
 https://github.com/Samyak8303/wanderbee.com/assets/130790017/0b439a35-d299-46dd-8122-d1abb0b8d9d9
 
