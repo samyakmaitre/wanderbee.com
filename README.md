@@ -1,5 +1,7 @@
 <b>Wanderbee.com Frontend  Project :</br><br>
 
+IMPORTANT: By accessing this repository, you agree to the terms mentioned in the file named "LICENSE". Do not use, copy, or distribute any part of this repository if you do not agree with these terms.
+
 https://github.com/Samyak8303/wanderbee.com/assets/130790017/0b439a35-d299-46dd-8122-d1abb0b8d9d9
 
 
